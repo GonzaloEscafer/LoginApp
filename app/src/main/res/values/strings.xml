@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_clave">Clave</string>
+    <string name="text_guardar">Guardar las credenciales</string>
+    <string name="btn_acceder">ACCEDER</string>
+    <string name="error_login">Nombre de usuario o clave incorrectos</string>
+
+    <string name="text_bienvenida">¡Hola! :)</string>
+    <string name="btn_borrar">BORRAR CREDENCIALES</string>
+    <string name="toast_eliminados">Datos eliminados</string>
+</resources>
